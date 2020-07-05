@@ -1,0 +1,13 @@
+E:\DAVID\RODRIGOorganizador-churrasco-master\organizador-churrasco-master\OrganizadorChurrasco\obj\Debug\OrganizadorChurrasco.csprojAssemblyReference.cache
+E:\DAVID\aula de progrmaçao prof rodrigo\RODorganizadorMASTER\OrganizadorChurrasco\obj\Debug\OrganizadorChurrasco.csprojAssemblyReference.cache
+E:\DAVID\RODorganizadorMASTER\OrganizadorChurrasco\bin\Debug\OrganizadorChurrasco.exe.config
+E:\DAVID\RODorganizadorMASTER\OrganizadorChurrasco\bin\Debug\OrganizadorChurrasco.exe
+E:\DAVID\RODorganizadorMASTER\OrganizadorChurrasco\bin\Debug\OrganizadorChurrasco.pdb
+E:\DAVID\RODorganizadorMASTER\OrganizadorChurrasco\obj\Debug\OrganizadorChurrasco.csprojAssemblyReference.cache
+E:\DAVID\RODorganizadorMASTER\OrganizadorChurrasco\obj\Debug\OrganizadorChurrasco.FrmConvidadoPesquisar.resources
+E:\DAVID\RODorganizadorMASTER\OrganizadorChurrasco\obj\Debug\OrganizadorChurrasco.FrmConvidados.resources
+E:\DAVID\RODorganizadorMASTER\OrganizadorChurrasco\obj\Debug\OrganizadorChurrasco.FrmHome.resources
+E:\DAVID\RODorganizadorMASTER\OrganizadorChurrasco\obj\Debug\OrganizadorChurrasco.Properties.Resources.resources
+E:\DAVID\RODorganizadorMASTER\OrganizadorChurrasco\obj\Debug\OrganizadorChurrasco.csproj.GenerateResource.cache
+E:\DAVID\RODorganizadorMASTER\OrganizadorChurrasco\obj\Debug\OrganizadorChurrasco.exe
+E:\DAVID\RODorganizadorMASTER\OrganizadorChurrasco\obj\Debug\OrganizadorChurrasco.pdb
